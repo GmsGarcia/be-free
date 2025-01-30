@@ -1,0 +1,11 @@
+elytra:
+  item-name: "Elytra"
+
+booster:
+  enabled: true
+  item-name: "Booster"
+  hotbar-slot: 0
+  cooldown: 2
+
+effects:
+  resistance: true

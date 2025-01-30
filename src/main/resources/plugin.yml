@@ -1,0 +1,12 @@
+name: be-free
+version: '0.1.0'
+main: pt.gmsgarcia.befree.BeFree
+api-version: '1.21'
+
+commands:
+  befree:
+    description: "Be Free"
+    usage: "/befree set <option> <value>"
+    aliases: [ bf ]
+    permission: befree.command.main
+    permission-message: "You do not have permission to use this command"
